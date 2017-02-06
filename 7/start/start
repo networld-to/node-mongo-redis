@@ -1,0 +1,3 @@
+#!/bin/bash
+start_mongo
+start_redis
